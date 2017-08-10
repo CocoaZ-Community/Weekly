@@ -41,3 +41,5 @@
 ## CocoaZ
 
 [CocoaZ.com](https://www.cocoaz.com) 是一个面向国内 iOS／macOS 开发者的交流社区，关注更多内容，欢迎大家前来交流分享技术，资讯，个人作品，招聘信息，这里也有技术大牛为你解答各种问题。
+
+> 欢迎关注 CocoaZ [微博](http://weibo.com/cocoaz/) 和 [Twitter](https://twitter.com/CocoaZ__)
